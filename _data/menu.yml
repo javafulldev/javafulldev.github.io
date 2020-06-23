@@ -1,11 +1,14 @@
 - title: Home
   link: /
 
-- title: About
-  link: /about/
+- title: Cursos
+  link: "/cursos/"
 
-- title: Services
-  link: "/services/"
+- title: Sobre
+  link: /sobre/
 
-- title: Contact
-  link: "/contact/"
+#- title: Services
+#  link: "/services/"
+
+#- title: Contact
+#  link: "/contact/"
